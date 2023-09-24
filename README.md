@@ -20,7 +20,6 @@ The Terraform CLI installation instructions have changed due to gpg keyring chan
 
 [Install Terraform CLI](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
 
-
 ### Considerations for Linux Distribution
 
 This project is built against Ubunutu.
